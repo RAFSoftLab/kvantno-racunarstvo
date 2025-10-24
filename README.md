@@ -1,6 +1,6 @@
 ## QLab
 <img src="images/KvantnoRacunarstvoCover.jpg" align="right" width="250" alt="Kvantno računarstvo">
-Ove laboratorijske vežbe predstavljaju uvod u osnovne koncepte i algoritme kvantnog računarstva kroz programske zadatke u Python-u koristeći Qiskit biblioteku. Kreirajte i simulirajte kvantna kola, vizualizujte rezultate i primenite principe kvantne mehanike za rešavanje različitih problema.
+QLab praktične programske vežbe predstavljaju uvod u osnovne koncepte i algoritme kvantnog računarstva. Zadaci sa rešenjima pripremljeni su u obliku Python sveski (Notebook) koje se mogu pokretati na ličnom računaru, putem onlajn okruženja ili čak na mobilnim uređajima.
 
 Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://cet.rs/proizvod/kvantno-racunarstvo/).
 
