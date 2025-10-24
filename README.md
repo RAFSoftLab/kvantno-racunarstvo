@@ -3,55 +3,53 @@ Ove laboratorijske vežbe predstavljaju uvod u osnovne koncepte i algoritme kvan
 
 ### Kubiti
 [Lab 01](Lab%2001%20-%20Bloch%20Sphere.ipynb): Blohova sfera<br>
-[Lab 02](Lab%2002%20-%20Born%20Rule.ipynb): Demonstrating the Born Rule<br>
+[Lab 02](Lab%2002%20-%20Born%20Rule.ipynb): Demonstracija Bornovog pravila<br>
 
 ### Kvantna kola
-[Lab 03](Lab%2003%20-%20Quantum%20Circuits.ipynb): Building Simple Quantum Circuits<br>
-[Lab 04](Lab%2004%20-%20QRNG.ipynb): Quantum Random Number Generation with Hadamard Gates<br>
-[Lab 05](Lab%2005%20-%20Bell%20state.ipynb): Creating and Measuring a Bell State<br>
-[Lab 06](Lab%2006%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Conditional Bell State Encoding<br>
-[Lab 07](Lab%2007%20-%20Ramsey%20phase%20estimation.ipynb): Single Qubit Ramsey-like Phase Estimation<br>
-[Lab 08](Lab%2008%20-%20Quantum%20Fourier%20Transform.ipynb): Quantum Fourier Transform<br>
-[Lab 09](Lab%2009%20-%20Kitaev%20Phase%20Estimation.ipynb): Kitaev Phase Estimation
+[Lab 03](Lab%2003%20-%20Quantum%20Circuits.ipynb): Jednostavna kvantna kola<br>
+[Lab 04](Lab%2004%20-%20QRNG.ipynb): Kvantni generator slučajnih brojeva<br>
+[Lab 05](Lab%2005%20-%20Bell%20state.ipynb): Kreiranje i merenje Belovih stanja<br>
+[Lab 06](Lab%2006%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
+[Lab 07](Lab%2007%20-%20Ramsey%20phase%20estimation.ipynb): Remzijeva estimacija faze<br>
+[Lab 08](Lab%2008%20-%20Quantum%20Fourier%20Transform.ipynb): Kvantna Furijeova transformacija<br>
+[Lab 09](Lab%2009%20-%20Kitaev%20Phase%20Estimation.ipynb): Kitajeva procena faze
+
 ### Kvantni algoritmi
-[Lab 10](Lab%2010%20-%20Deutsch–Jozsa%20algorithm.ipynb): Deutsch–Jozsa Algorithm<br>
-[Lab 11](Lab%2011%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstein–Vazirani Algorithm<br>
-[Lab 12](Lab%2012%20-%20Simons%20algorithm.ipynb): Simon's Algorithm<br>
-[Lab 13](Lab%2013%20-%20Grover%20Search%20Algorithm.ipynb): Grover Search Algorithm<br>
-[Lab 14](Lab%2014%20-%20Grover%20SAT%20Solver.ipynb): Grover SAT Solver<br>
+[Lab 10](Lab%2010%20-%20Deutsch–Jozsa%20algorithm.ipynb): Dojč-Džoza algoritam<br>
+[Lab 11](Lab%2011%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstin-Vazirani algoritam<br>
+[Lab 12](Lab%2012%20-%20Simons%20algorithm.ipynb): Sajmonov algoritam<br>
+[Lab 13](Lab%2013%20-%20Grover%20Search%20Algorithm.ipynb): Groverov algoritam<br>
+[Lab 14](Lab%2014%20-%20Grover%20SAT%20Solver.ipynb): Groverov SAT rešavač<br>
 
 ### Kvantne komunikacije
-[Lab 15](Lab%2015%20-%20Superdense%20coding.ipynb): Superdense Coding<br>
-[Lab 16](Lab%2016%20-%20Quantum%20Teleportation.ipynb): Quantum Teleportation<br>
+[Lab 15](Lab%2015%20-%20Superdense%20coding.ipynb): Supergusto kodiranje<br>
+[Lab 16](Lab%2016%20-%20Quantum%20Teleportation.ipynb): Kvantna teleportacija<br>
 
 ### Kvantna kriptografija
-[Lab 17](Lab%2017%20-%20Quantum%20authentication%20protocol.ipynb): Quantum authentication protocol<br>
-[Lab 18](Lab%2018%20-%20Quantum%20Money.ipynb): Quantum Money
+[Lab 17](Lab%2017%20-%20Quantum%20authentication%20protocol.ipynb): Kvantni protokol za autentikaciju<br>
+[Lab 18](Lab%2018%20-%20Quantum%20Money.ipynb): Kvantni novac
 
 ### Kvantno mašinsko učenje
-[Lab 19](Lab%2019%20-%20Grover%20Classifier.ipynb): Grover Classifier<br>
-[Lab 20](Lab%2020%20-%20Minimal%202-qubit%20QBM.ipynb): Minimal 2-qubit Quantum Born Machine (QBM)<br>
-[Lab 21](Lab%2021%20-%203-qubit%20QBM.ipynb): 3-Qubit QBM for Coffee Shop Simulation<br>
-[Lab 22](Lab%2022%20-%204-qubit%202-layer%20QBM.ipynb): 4-qubit 2-layer QBM for Traffic Simulation<br>
-[Lab 23](Lab%2023%20-%202-Qubit%20VQC%20Classifier.ipynb): 2-Qubit Variational Quantum Classifier
+[Lab 19](Lab%2019%20-%20Grover%20Classifier.ipynb): Groverov klasifikator<br>
+[Lab 20](Lab%2020%20-%20Minimal%202-qubit%20QBM.ipynb): Minimalna dvokubitna Kvantna Bornova Mašina(QBM)<br>
+[Lab 21](Lab%2021%20-%203-qubit%20QBM.ipynb): Trokubitna QBM za simulaciju kafea<br>
+[Lab 22](Lab%2022%20-%204-qubit%202-layer%20QBM.ipynb): 4-kubita, 2-sloja QBM za simulaciju saobraćaja<br>
+[Lab 23](Lab%2023%20-%202-Qubit%20VQC%20Classifier.ipynb): Dvokubitni varijacijski kvantni klasifikator
 
-### Google Colab uputstvo
+### Uputstvo za Google Colab 
 
-These examples are fully compatible with **Google Colab**. To open them:
+Svi primeri su kompatibilni sa **Google Colab** veb aplikacijom:
 
-1. Open **[Google Colab](https://colab.google.com/)** and log in with a Google account.
-1. Go to **File > Open notebook**
-2. Select the **GitHub** tab
-3. Enter the repository URL:
+1. Otvoriti **[Google Colab](https://colab.google.com/)** i prijaviti se sa Google nalogom.
+1. Kliknuti na **File > Open notebook**
+2. Kliknuti na **GitHub** tabulator
+3. uneti ovaj URL:
    ```
-   Quantum-Computing-Institute-Cape-Town/QC-Labs
+   RAFSoftLab/kvantno-racunarstvo/
    ```
 
-Before running the examples, install Qiskit by executing the following commands in the first cell:
+Pre pokretanja, na početak svkog od primera dodati ćeliju koja instalira Qiskit
 
 ```bash
-!pip install qiskit
-!pip install qiskit-aer
-!pip install qiskit[visualization]
-!pip install qiskit_ibm_runtime
+ !pip install -qq -U qiskit qiskit-aer qiskit[visualization] qiskit_ibm_runtime
 ```
