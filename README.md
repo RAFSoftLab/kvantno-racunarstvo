@@ -1,6 +1,8 @@
-<img src="images/KvantnoRacunarstvoCover.jpg" align="right" width="250" alt="Kvantno računarstvo">
 ## QLab
+<img src="images/KvantnoRacunarstvoCover.jpg" align="right" width="250" alt="Kvantno računarstvo">
 Ove laboratorijske vežbe predstavljaju uvod u osnovne koncepte i algoritme kvantnog računarstva kroz programske zadatke u Python-u koristeći Qiskit biblioteku. Kreirajte i simulirajte kvantna kola, vizualizujte rezultate i primenite principe kvantne mehanike za rešavanje različitih problema.
+
+Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://cet.rs/proizvod/kvantno-racunarstvo/).
 
 ### Kubiti
 [Lab 01](Lab%2001%20-%20Bloch%20Sphere.ipynb): Blohova sfera<br>
