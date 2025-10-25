@@ -51,7 +51,7 @@ Svi primeri su kompatibilni sa **Google Colab** veb aplikacijom:
    RAFSoftLab/kvantno-racunarstvo/
    ```
 
-Pre pokretanja, na početak svkog od primera dodati ćeliju koja instalira Qiskit
+Pre pokretanja, na početak svakog od primera dodati ćeliju koja instalira Qiskit:
 
 ```bash
  !pip install -qq -U qiskit qiskit-aer qiskit[visualization] qiskit_ibm_runtime
