@@ -5,11 +5,11 @@ QLab praktične programske vežbe predstavljaju uvod u osnovne koncepte i algori
 Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://cet.rs/proizvod/kvantno-racunarstvo/).
 
 ### Kubiti
-[Lab 01](Lab%2001%20-%20Bloch%20Sphere.ipynb): Blohova sfera<br>
-[Lab 02](Lab%2002%20-%20Born%20Rule.ipynb): Demonstracija Bornovog pravila<br>
+[Lab 01](Lab01-Blohova_sfera.ipynb): Blohova sfera<br>
+[Lab 02](Lab02-Bornovo_pravilo.ipynb): Demonstracija Bornovog pravila<br>
 
 ### Kvantna kola
-[Lab 03](Lab%2003%20-%20Quantum%20Circuits.ipynb): Jednostavna kvantna kola<br>
+[Lab 03](Lab03-Kvantna_kola.ipynb): Jednostavna kvantna kola<br>
 [Lab 04](Lab%2004%20-%20QRNG.ipynb): Kvantni generator slučajnih brojeva<br>
 [Lab 05](Lab%2005%20-%20Bell%20state.ipynb): Kreiranje i merenje Belovih stanja<br>
 [Lab 06](Lab%2006%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
