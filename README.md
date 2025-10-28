@@ -12,7 +12,7 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 03](Lab03-Kvantna_kola.ipynb): Jednostavna kvantna kola<br>
 [Lab 04](Lab04-QRNG.ipynb): Kvantni generator slučajnih brojeva<br>
 [Lab 05](Lab05-Bell_state.ipynb): Kreiranje i merenje Belovih stanja<br>
-[Lab 06](Lab%2006%20-%20Conditional%20Bell%20State%20Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
+[Lab 06](Lab06-Conditional_Bell_State_Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
 [Lab 07](Lab%2007%20-%20Ramsey%20phase%20estimation.ipynb): Remzijeva estimacija faze<br>
 [Lab 08](Lab%2008%20-%20Quantum%20Fourier%20Transform.ipynb): Kvantna Furijeova transformacija<br>
 [Lab 09](Lab%2009%20-%20Kitaev%20Phase%20Estimation.ipynb): Kitajeva procena faze
