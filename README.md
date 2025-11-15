@@ -25,7 +25,7 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 14](Lab%14-GroverSAT_Solver.ipynb): Groverov SAT rešavač<br>
 
 ### Kvantne komunikacije
-[Lab 15](Lab%2015%20-%20Superdense%20coding.ipynb): Supergusto kodiranje<br>
+[Lab 15](Lab15-Supergusto_kodiranje.ipynb): Supergusto kodiranje<br>
 [Lab 16](Lab%2016%20-%20Quantum%20Teleportation.ipynb): Kvantna teleportacija<br>
 
 ### Kvantna kriptografija
