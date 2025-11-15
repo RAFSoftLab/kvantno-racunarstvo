@@ -13,12 +13,12 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 04](Lab04-QRNG.ipynb): Kvantni generator slučajnih brojeva<br>
 [Lab 05](Lab05-Bell_state.ipynb): Kreiranje i merenje Belovih stanja<br>
 [Lab 06](Lab06-Conditional_Bell_State_Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
-[Lab 07](Lab%2007%20-%20Ramsey%20phase%20estimation.ipynb): Remzijeva estimacija faze<br>
-[Lab 08](Lab%2008%20-%20Quantum%20Fourier%20Transform.ipynb): Kvantna Furijeova transformacija<br>
-[Lab 09](Lab%2009%20-%20Kitaev%20Phase%20Estimation.ipynb): Kitajeva procena faze
+[Lab 07](Lab07-Ramsey_phase_estimation.ipynb): Remzijeva estimacija faze<br>
+[Lab 08](Lab08-Quantum_Fourier_Transform.ipynb): Kvantna Furijeova transformacija<br>
+[Lab 09](Lab09-Kitaev_Phase_Estimation.ipynb): Kitajeva procena faze
 
 ### Kvantni algoritmi
-[Lab 10](Lab%2010%20-%20Deutsch–Jozsa%20algorithm.ipynb): Dojč-Džoza algoritam<br>
+[Lab 10](Lab10-Deutsch–Jozsa_algorithm.ipynb): Dojč-Džoza algoritam<br>
 [Lab 11](Lab%2011%20-%20Bernstein–Vazirani%20algorithm.ipynb): Bernstin-Vazirani algoritam<br>
 [Lab 12](Lab%2012%20-%20Simons%20algorithm.ipynb): Sajmonov algoritam<br>
 [Lab 13](Lab%2013%20-%20Grover%20Search%20Algorithm.ipynb): Groverov algoritam<br>
