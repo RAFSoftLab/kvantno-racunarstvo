@@ -11,7 +11,7 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 ### Kvantna kola
 [Lab 03](Lab03-Kvantna_kola.ipynb): Jednostavna kvantna kola<br>
 [Lab 04](Lab04-QRNG.ipynb): Kvantni generator slučajnih brojeva<br>
-[Lab 05](Lab05-Bell_state.ipynb): Kreiranje i merenje Belovih stanja<br>
+[Lab 05](Lab05-Belova_stanja.ipynb): Kreiranje i merenje Belovih stanja<br>
 [Lab 06](Lab06-Conditional_Bell_State_Encoding.ipynb): Uslovno kodiranje Belovog stanja<br>
 [Lab 07](Lab07-Ramsey_phase_estimation.ipynb): Remzijeva estimacija faze<br>
 [Lab 08](Lab08-Quantum_Fourier_Transform.ipynb): Kvantna Furijeova transformacija<br>
