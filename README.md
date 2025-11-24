@@ -18,11 +18,11 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 09](Lab09-Kitaev_Phase_Estimation.ipynb): Kitajeva procena faze
 
 ### Kvantni algoritmi
-[Lab 10](Lab10-Deutsch–Jozsa_algorithm.ipynb): Dojč-Džoza algoritam<br>
+[Lab 10](Lab10-Deutsch–Jozsa_Algorithm.ipynb): Dojč-Džoza algoritam<br>
 [Lab 11](Lab11-Bernstein–Vazirani_algorithm.ipynb): Bernstin-Vazirani algoritam<br>
-[Lab 12](Lab12-Simons_algorithm.ipynb): Sajmonov algoritam<br>
+[Lab 12](Lab12-Simons_Algorithm.ipynb): Sajmonov algoritam<br>
 [Lab 13](Lab13-Grover_Search_Algorithm.ipynb): Groverov algoritam<br>
-[Lab 14](Lab14-GroverSAT_Solver.ipynb): Groverov SAT rešavač<br>
+[Lab 14](Lab14-Grover_SAT_Solver.ipynb): Groverov SAT rešavač<br>
 
 ### Kvantne komunikacije
 [Lab 15](Lab15-Supergusto_kodiranje.ipynb): Supergusto kodiranje<br>
