@@ -22,22 +22,22 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 11](Lab11-Bernstein–Vazirani_algorithm.ipynb): Bernstin-Vazirani algoritam<br>
 [Lab 12](Lab12-Simons_algorithm.ipynb): Sajmonov algoritam<br>
 [Lab 13](Lab13-Grover_Search_Algorithm.ipynb): Groverov algoritam<br>
-[Lab 14](Lab%14-GroverSAT_Solver.ipynb): Groverov SAT rešavač<br>
+[Lab 14](Lab14-GroverSAT_Solver.ipynb): Groverov SAT rešavač<br>
 
 ### Kvantne komunikacije
 [Lab 15](Lab15-Supergusto_kodiranje.ipynb): Supergusto kodiranje<br>
-[Lab 16](Lab%2016%20-%20Quantum%20Teleportation.ipynb): Kvantna teleportacija<br>
+[Lab 16](Lab16-Kvantna_teleportacija.ipynb): Kvantna teleportacija<br>
 
 ### Kvantna kriptografija
-[Lab 17](Lab%2017%20-%20Quantum%20authentication%20protocol.ipynb): Kvantni protokol za autentikaciju<br>
-[Lab 18](Lab%2018%20-%20Quantum%20Money.ipynb): Kvantni novac
+[Lab 17](Lab17-Kvantni_protokol_za_autentikaciju.ipynb): Kvantni protokol za autentikaciju<br>
+[Lab 18](Lab18-Kvantni_novac.ipynb): Kvantni novac
 
 ### Kvantno mašinsko učenje
-[Lab 19](Lab%2019%20-%20Grover%20Classifier.ipynb): Groverov klasifikator<br>
-[Lab 20](Lab%2020%20-%20Minimal%202-qubit%20QBM.ipynb): Minimalna dvokubitna Kvantna Bornova Mašina(QBM)<br>
-[Lab 21](Lab%2021%20-%203-qubit%20QBM.ipynb): Trokubitna QBM za simulaciju kafea<br>
-[Lab 22](Lab%2022%20-%204-qubit%202-layer%20QBM.ipynb): 4-kubita, 2-sloja QBM za simulaciju saobraćaja<br>
-[Lab 23](Lab%2023%20-%202-Qubit%20VQC%20Classifier.ipynb): Dvokubitni varijacijski kvantni klasifikator
+[Lab 19](Lab19-Groverov_klasifikator.ipynb): Groverov klasifikator<br>
+[Lab 20](Lab20-Minimalna_QBM.ipynb): Minimalna dvokubitna Kvantna Bornova Mašina(QBM)<br>
+[Lab 21](Lab21-Trokubitna_QBM.ipynb): Trokubitna QBM za simulaciju kafea<br>
+[Lab 22](Lab22-Dvoslojna_QBM.ipynb): 4-kubita, 2-sloja QBM za simulaciju saobraćaja<br>
+[Lab 23](Lab23-Dvokubitno_VQC.ipynb): Dvokubitni varijacijski kvantni klasifikator
 
 ### Uputstvo za Google Colab 
 
