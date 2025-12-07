@@ -14,7 +14,7 @@ Za dublje razumevanje materije pogledajte knjigu [Kvantno računarstvo](https://
 [Lab 05](Lab05-Belova_stanja.ipynb): Kreiranje i merenje Belovih stanja<br>
 [Lab 06](Lab06-Kontrolisani_Bell_Generator.ipynb): Kontrolisani Bell generator<br>
 [Lab 07](Lab07-Remzijeva_procena_faze.ipynb): Remzijeva procena faze<br>
-[Lab 08](Lab08-Quantum_Fourier_Transform.ipynb): Kvantna Furijeova transformacija<br>
+[Lab 08](Lab08-Kvantna_Furijeova_Transformacija.ipynb): Kvantna Furijeova Transformacija<br>
 [Lab 09](Lab09-Kitaev_Phase_Estimation.ipynb): Kitajeva procena faze
 
 ### Kvantni algoritmi
